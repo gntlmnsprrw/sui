@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/698ee240-09ba-441a-8008-f2f83491104f/deploy-status)](https://app.netlify.com/sites/distracted-kowalevski-9eb132/deploys)
+
 ## SUI
 *a startpage for your server and / or new tab page*
 
