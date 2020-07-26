@@ -5,7 +5,7 @@
         {"name":"Cockpit","url":"cp.example.com","icon":"airplane"},
         {"name":"Feedbin","url":"rss.example.com","icon":"rss"},
         {"name":"Filestash","url":"cloud.example.com","icon":"package"},
-        {"name":"Jackett","url":"jackett.example.com","icon":"tshirt-crew-outline"},
+        {"name":"Jackett","url":"jackett.oriondev.tech","icon":"tshirt-crew-outline"},
         {"name":"Lidarr","url":"music.example.com","icon":"music"},
         {"name":"Minio","url":"minio.example.com","icon":"server"},
         {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant"},
@@ -14,10 +14,10 @@
         {"name":"Pi-hole","url":"pihole.example.com","icon":"do-not-disturb"},
         {"name":"Plex","url":"play.example.com","icon":"plex"},
         {"name":"Portainer","url":"port1.example.com","icon":"docker"},
-        {"name":"Radarr","url":"movies.example.com","icon":"filmstrip"},
-        {"name":"Sonarr","url":"tv.example.com","icon":"television-box"},
+        {"name":"Radarr","url":"radarr.oriondev.tech","icon":"filmstrip"},
+        {"name":"Sonarr","url":"sonarr.oriondev.tech","icon":"television-box"},
         {"name":"Stackedit","url":"md.example.com","icon":"markdown"},
-        {"name":"Transmission","url":"dl.example.com","icon":"progress-download"},
+        {"name":"qBitTorrent","url":"torrent.oriondev.tech:8080","icon":"progress-download"},
         {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
         {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
     ]
