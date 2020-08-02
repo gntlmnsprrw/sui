@@ -239,7 +239,7 @@ table a{
 
 .apps_text span{
 	color: var(--color-text-acc);
-	font-size: 0.8em;
+	font-size: 1em;
 	text-transform: uppercase;
 }
 
