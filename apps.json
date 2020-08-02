@@ -5,20 +5,16 @@
         {"name":"Sonarr","url":"sonarr.oriondev.tech:7878","icon":"television-box"},
         {"name":"Lidarr","url":"lidarr.oriondev.tech","icon":"music"},
         {"name":"Jackett","url":"jackett.oriondev.tech:9117","icon":"tshirt-crew-outline"},
-        {"name":"Cockpit","url":"cp.example.com","icon":"airplane"},
-        {"name":"Feedbin","url":"rss.example.com","icon":"rss"},
-        {"name":"Filestash","url":"cloud.example.com","icon":"package"},
-        {"name":"Minio","url":"minio.example.com","icon":"server"},
         {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant"},
         {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
         {"name":"Ombi","url":"request.example.com","icon":"file-find-outline"},
-        {"name":"Pi-hole Primary Node","url":"dns1.oriondev.tech/admin/","icon":"do-not-disturb"},
-        {"name":"Pi-hole Secondary Node","url":"dns2.oriondev.tech/admin/","icon":"do-not-disturb"},
         {"name":"Jellyfin","url":"jellyfin.oriondev.tech:8096","icon":"emby"},
         {"name":"Portainer","url":"port1.example.com","icon":"docker"},
-        {"name":"Stackedit","url":"md.example.com","icon":"markdown"},
+        {"name":"Code","url":"code.oriondev.tech","icon":"markdown"},
         {"name":"Torrents","url":"torrent.oriondev.tech:8080","icon":"progress-download"},
         {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
-        {"name":"Youtube-DL","url":"ytdl.oriondev.tech","icon":"youtube"}
+        {"name":"Youtube-DL","url":"ytdl.oriondev.tech","icon":"youtube"},
+        {"name":"Pi-hole Primary Node","url":"dns1.oriondev.tech/admin/","icon":"do-not-disturb"},
+        {"name":"Pi-hole Secondary Node","url":"dns2.oriondev.tech/admin/","icon":"do-not-disturb"}
     ]
 }
