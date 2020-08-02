@@ -221,6 +221,7 @@ table a{
 	flex-direction: row;
 	flex-wrap: wrap;
 	height: 72px;
+	width: 96px;
 	margin: 0;
 }
 
