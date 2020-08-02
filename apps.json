@@ -16,7 +16,7 @@
         {"name":"Plex","url":"play.example.com","icon":"plex"},
         {"name":"Portainer","url":"port1.example.com","icon":"docker"},
         {"name":"Stackedit","url":"md.example.com","icon":"markdown"},
-        {"name":"qBitTorrent","url":"torrent.oriondev.tech:8080","icon":"progress-download"},
+        {"name":"Torrents","url":"torrent.oriondev.tech:8080","icon":"progress-download"},
         {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
         {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
     ]
