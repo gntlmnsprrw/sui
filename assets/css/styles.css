@@ -198,8 +198,8 @@ table a{
 #apps_loop{
 	border-bottom: 0px solid var(--color-text-acc);
 	display: grid;
-	grid-column-gap: 0px;
-	grid-row-gap: 0px;
+	grid-column-gap: 1px;
+	grid-row-gap: 1px;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-rows: 64px;
 	padding-bottom: var(--module-spacing);
