@@ -212,15 +212,15 @@ table a{
 }
 
 .apps_icon span{
-	font-size: 2.5em;
-	line-height: 3rem;
+	font-size: 2em;
+	line-height: 2.5rem;
 }
 
 .apps_item{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	height: 64px;
+	height: 72px;
 	margin: 0;
 }
 
