@@ -22,40 +22,6 @@
                 ]
               },
               {
-                "category": "Cloud",
-                "links": [
-                  {
-                    "name": "Box",
-                    "url": "https://box.net"
-                  },
-                  {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
-                  },
-                  {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
-                  },
-                  {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
-                  },
-                  {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
-                  }
-                ]
-              },
-              {
                 "category": "Dev",
                 "links": [
                   {
@@ -73,24 +39,7 @@
                 ]
               },
               {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
-                  }
-                ]
-              },
-              {
-                "category": "Media",
+                "category": "Entertainment",
                 "links": [
                   {
                     "name": "Spotify",
@@ -103,19 +52,6 @@
                   {
                     "name": "YouTube",
                     "url": "http://youtube.com/subscriptions"
-                  }
-                ]
-              },
-              {
-                "category": "Reading",
-                "links": [
-                  {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
-                  },
-                  {
-                    "name": "Medium",
-                    "url": "http://medium.com"
                   },
                   {
                     "name": "Reddit",
