@@ -1,11 +1,11 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "Work",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
+                    "name": "Jira",
+                    "url": "https://servicedesk.24-7intouch.com:8443"
                   },
                   {
                     "name": "Gmail",
@@ -14,6 +14,10 @@
                   {
                     "name": "Slack",
                     "url": "https://slack.com/signin"
+                  },
+                  {
+                    "name": "Drive",
+                    "url": "https://drive.google.com"
                   }
                 ]
               },
