@@ -42,6 +42,23 @@
                 ]
               },
               {
+                "category": "Home/Side Biz",
+                "links": [
+                  {
+                    "name": "Zoho Mail",
+                    "url": "https://mail.zoho.com/zm/#mail/folder/inbox/p/1596557359490100001"
+                  },
+                  {
+                    "name": "Zoho Calendar",
+                    "url": "https://calendar.zoho.com/mycalendar"
+                  },
+                  {
+                    "name": "Devhints",
+                    "url": "https://devhints.io"
+                  }
+                ]
+              },
+              {
                 "category": "Dev",
                 "links": [
                   {
