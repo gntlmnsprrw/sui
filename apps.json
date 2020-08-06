@@ -1,6 +1,6 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"subs.example.com","icon":"message-video"},
+        {"name":"Bazarr","url":"bazarr.oriondev.tech:6767","icon":"message-video"},
         {"name":"Radarr","url":"radarr.oriondev.tech:7878","icon":"filmstrip"},
         {"name":"Sonarr","url":"sonarr.oriondev.tech:8989","icon":"television-box"},
         {"name":"Lidarr","url":"lidarr.oriondev.tech","icon":"music"},
