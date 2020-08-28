@@ -1,6 +1,47 @@
 {
             "bookmarks" : [
               {
+                "category": "Work",
+                "links": [
+                  {
+                    "name": "Jira",
+                    "url": "https://servicedesk.24-7intouch.com:8443"
+                  },
+                  {
+                    "name": "Gmail",
+                    "url": "http://gmail.com"
+                  },
+                  {
+                    "name": "IceWarp",
+                    "url": "https://webmail.247a.io"
+                  },
+                  {
+                    "name": "Slack",
+                    "url": "https://slack.com/signin"
+                  },
+                  {
+                    "name": "Superpunch",
+                    "url": "https://superpunchtms.com"
+                  },
+                  {
+                    "name": "WFH Client sheet",
+                    "url": "https://docs.google.com/spreadsheets/d/1cLHv0K9WXSfe2rQQepEPdOSISDrS9GLQODn0JfQynew/edit#gid=483916666"
+                  },
+                  {
+                    "name": "Calendly Link",
+                    "url": "https://calendly.com/24-7intouch-admin/"
+                  },
+                  {
+                    "name": "MM process v2",
+                    "url": "https://docs.google.com/document/d/1a5yOsheDuoYAiVTJcU7TDoi2PJQRxXWBaZ2KbsDbuJc/edit"
+                  },
+                  {
+                    "name": "Drive",
+                    "url": "https://drive.google.com"
+                  }
+                ]
+              },
+              {
                 "category": "Home/Side Biz",
                 "links": [
                   {
