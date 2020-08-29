@@ -13,6 +13,7 @@
         {"name":"Torrents","url":"torrent.oriondev.tech:8080","icon":"progress-download"},
         {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
         {"name":"Youtube-DL","url":"ytdl.oriondev.tech","icon":"youtube"},
+        {"name":"LibreNMS","url":"librenms.oriondev.tech","icon":"monitor-eye"},
         {"name":"Pi-hole Primary Node","url":"dns1.oriondev.tech/admin/","icon":"do-not-disturb"},
         {"name":"Pi-hole Secondary Node","url":"dns2.oriondev.tech/admin/","icon":"do-not-disturb"}
     ]
