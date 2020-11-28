@@ -78,6 +78,25 @@
 
         <section id="apps">
             <script type="text/handlebars-template" id="apps-template">
+            <h3>HomeLab</h3>
+            <div id="apps_loop">
+                {{#apps}}
+                    <div class="apps_item">
+                        <div class="apps_icon">
+                            <span class="iconify icon" data-icon="mdi-{{icon}}"></span>
+                        </div>
+                        <div class="apps_text">
+                            <a href="https://{{url}}">{{name}}</a>
+                            <span>{{url}}</span>
+                        </div>
+                    </div>
+                {{/apps}}                         
+            </div>
+            </script>
+        </section>
+
+        <section id="apps">
+            <script type="text/handlebars-template" id="apps-template">
             <h3>Applications</h3>
             <div id="apps_loop">
                 {{#apps}}
