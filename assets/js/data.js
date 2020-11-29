@@ -22,6 +22,18 @@ $(document).ready(function(){
   });
 });
 
+var data_homelab = "homelab.json";
+  
+$(document).ready(function(){
+  $.getJSON(data_apps,
+    function (data) {
+      var mysource = $('#apps-template').html();
+      var mytemplate = Handlebars.compile(mysource);
+      var myresult = mytemplate(data)
+      $('#apps').html(myresult);
+  });
+});
+
 var data_providers = "providers.json";
   
 $(document).ready(function(){

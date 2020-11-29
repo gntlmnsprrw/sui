@@ -1,0 +1,20 @@
+{
+    "apps" : [
+        {"name":"Bazarr","url":"bazarr.oriondev.tech:6767","icon":"message-video"},
+        {"name":"Radarr","url":"radarr.oriondev.tech:7878","icon":"filmstrip"},
+        {"name":"Sonarr","url":"sonarr.oriondev.tech:8989","icon":"television-box"},
+        {"name":"Lidarr","url":"lidarr.oriondev.tech","icon":"music"},
+        {"name":"Jackett","url":"jackett.oriondev.tech:9117","icon":"tshirt-crew-outline"},
+        {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant"},
+        {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
+        {"name":"Ombi","url":"request.oriondev.tech","icon":"file-find-outline"},
+        {"name":"Jellyfin","url":"jellyfin.oriondev.tech:8096","icon":"emby"},
+        {"name":"Code","url":"code.oriondev.tech:1337","icon":"markdown"},
+        {"name":"Torrents","url":"torrent.oriondev.tech:8080","icon":"progress-download"},
+        {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
+        {"name":"Youtube-DL","url":"ytdl.oriondev.tech","icon":"youtube"},
+        {"name":"LibreNMS","url":"librenms.oriondev.tech","icon":"monitor-eye"},
+        {"name":"Pi-hole Primary Node","url":"dns1.oriondev.tech/admin/","icon":"do-not-disturb"},
+        {"name":"Pi-hole Secondary Node","url":"dns2.oriondev.tech/admin/","icon":"do-not-disturb"}
+    ]
+}
