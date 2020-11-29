@@ -243,6 +243,53 @@ table a{
 	text-transform: uppercase;
 }
 
+#homelab_loop{
+	border-bottom: 0px solid var(--color-text-acc);
+	display: grid;
+	grid-column-gap: 2px;
+	grid-row-gap: 3px;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: 64px;
+	padding-bottom: var(--module-spacing);
+}
+
+.homelab_icon{
+	height: 64px;
+	margin-right: 1em;
+	padding-top: 30px;
+}
+
+.homelab_icon span{
+	font-size: 2em;
+	line-height: 2.5rem;
+}
+
+.homelab_item{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	height: 96px;
+	width: 84px;
+	margin: 0;
+}
+
+.homelab_text{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.homelab_text a{
+	font-size: 1em;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.homelab_text span{
+	color: var(--color-text-acc);
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
 
 #links_loop{
 	display: grid;
