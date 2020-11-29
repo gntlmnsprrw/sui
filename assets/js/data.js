@@ -25,7 +25,7 @@ $(document).ready(function(){
 var data_homelab = "homelab.json";
   
 $(document).ready(function(){
-  $.getJSON(data_apps,
+  $.getJSON(data_homelab,
     function (data) {
       var mysource = $('#apps-template').html();
       var mytemplate = Handlebars.compile(mysource);
