@@ -30,7 +30,7 @@ $(document).ready(function(){
       var mysource = $('#apps-template').html();
       var mytemplate = Handlebars.compile(mysource);
       var myresult = mytemplate(data)
-      $('#apps').html(myresult);
+      $('#homelab').html(myresult);
   });
 });
 
